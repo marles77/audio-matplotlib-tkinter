@@ -288,7 +288,7 @@ class App(tk.Tk):
         
     
     # ============= Plot methods ============
-    
+
     def plot_data(self) -> None:
         '''Create plot of audio data'''
 
@@ -424,4 +424,4 @@ class App(tk.Tk):
         
         print(f"App closed")
 
-
+# TODO: dodać README
